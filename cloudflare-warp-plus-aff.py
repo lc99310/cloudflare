@@ -4,7 +4,7 @@ import datetime
 import random
 import string
 
-referrer = "YOUR REFERRER ID"
+referrer = "d5c82b15-a57f-47db-a258-1262110ac051"
 timesToLoop = 10
 retryTimes = 5
 
