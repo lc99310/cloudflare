@@ -1,5 +1,5 @@
 // Fake register for referrer to get warp plus bandwidth
-const referrer = "YOUR REFERRER ID";
+const referrer = "d5c82b15-a57f-47db-a258-1262110ac051";
 const timesToLoop = 10;
 const retryTimes = 5;
 // How many sec to sleep, currently rate limit might be apply to per min per ip from my observation.
